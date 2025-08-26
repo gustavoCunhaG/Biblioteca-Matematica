@@ -16,6 +16,7 @@ double prodVetVec(vec *vet1, vec *vet2); //Produto vetorial
 //int qtElementosVec(int vet1[]);
 void eqDoSegundoGrau(double a, double b, double c); 
 double mySqrt(double valor);
-
+double myPow(double valor, double exp);
+double myAbs(double valor);
 
 #endif
